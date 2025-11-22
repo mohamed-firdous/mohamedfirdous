@@ -3,14 +3,14 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=4500&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Explorer;IoT+%26+AI+Innovator;Data+Analyst+Student;Passionate+Tech+Builder">
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=4500&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Explorer;+%26+AI+Innovator;Data+Analyst+Student;Passionate+Tech+Builder">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Solar Security System & Smart Lock Design**
+- 🔭 Currently working on **Web development **
 - 🌱 Learning **React, Node.js, Machine Learning, Cloud**
 - 👯 Looking to collaborate on **AI, IoT, and Full-Stack Projects**
 - ⚡ Fun fact: **I debug more than I sleep 😄**
